@@ -1,2 +1,2 @@
-# Neonatal-deaths
-global neonatal deaths
+# Neonatal
+ Total neonatal death
